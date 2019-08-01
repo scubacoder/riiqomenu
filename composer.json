@@ -1,0 +1,14 @@
+{
+    "name": "scubacoder/riiqomenu",
+    "description": "Standalone right menu for RIIQO",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vincent Aycardo CoDev",
+            "email": "vincenta@codev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

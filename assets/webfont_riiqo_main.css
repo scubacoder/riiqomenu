@@ -1,0 +1,482 @@
+@font-face {
+  font-family: 'RiiqoMain';
+  src:  url('fonts/RiiqoMain.eot?srzmu5');
+  src:  url('fonts/RiiqoMain.eot?srzmu5#iefix') format('embedded-opentype'),
+    url('fonts/RiiqoMain.ttf?srzmu5') format('truetype'),
+    url('fonts/RiiqoMain.woff?srzmu5') format('woff'),
+    url('fonts/RiiqoMain.svg?srzmu5#RiiqoMain') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'RiiqoMain' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-RiiqoMain144:before {
+  content: "\e993";
+}
+.icon-RiiqoMain145:before {
+  content: "\e994";
+}
+.icon-RiiqoMain115:before {
+  content: "\e900";
+}
+.icon-RiiqoMain135:before {
+  content: "\e901";
+}
+.icon-RiiqoMain136:before {
+  content: "\e902";
+}
+.icon-RiiqoMain137:before {
+  content: "\e903";
+}
+.icon-RiiqoMain138:before {
+  content: "\e904";
+}
+.icon-RiiqoMain139:before {
+  content: "\e905";
+}
+.icon-RiiqoMain140:before {
+  content: "\e906";
+}
+.icon-RiiqoMain141:before {
+  content: "\e907";
+}
+.icon-RiiqoMain142:before {
+  content: "\e908";
+}
+.icon-RiiqoMain143:before {
+  content: "\e909";
+}
+.icon-RiiqoMain119:before {
+  content: "\e90a";
+}
+.icon-RiiqoMain120:before {
+  content: "\e90b";
+}
+.icon-RiiqoMain121:before {
+  content: "\e90c";
+}
+.icon-RiiqoMain122:before {
+  content: "\e90d";
+}
+.icon-RiiqoMain123:before {
+  content: "\e90e";
+}
+.icon-RiiqoMain124:before {
+  content: "\e90f";
+}
+.icon-RiiqoMain125:before {
+  content: "\e910";
+}
+.icon-RiiqoMain126:before {
+  content: "\e911";
+}
+.icon-RiiqoMain128:before {
+  content: "\e912";
+}
+.icon-RiiqoMain129:before {
+  content: "\e913";
+}
+.icon-RiiqoMain130:before {
+  content: "\e914";
+}
+.icon-RiiqoMain131:before {
+  content: "\e915";
+}
+.icon-RiiqoMain132:before {
+  content: "\e916";
+}
+.icon-RiiqoMain133:before {
+  content: "\e917";
+}
+.icon-RiiqoMain134:before {
+  content: "\e918";
+}
+.icon-RiiqoMain118:before {
+  content: "\e919";
+}
+.icon-RiiqoMain116:before {
+  content: "\e91a";
+}
+.icon-RiiqoMain117:before {
+  content: "\e91b";
+}
+.icon-RiiqoMain127:before {
+  content: "\e91c";
+}
+.icon-RiiqoMain-101:before {
+  content: "\e91d";
+}
+.icon-RiiqoMain-102:before {
+  content: "\e91e";
+}
+.icon-RiiqoMain-103:before {
+  content: "\e91f";
+}
+.icon-RiiqoMain-104:before {
+  content: "\e920";
+}
+.icon-RiiqoMain-105:before {
+  content: "\e921";
+}
+.icon-RiiqoMain-106:before {
+  content: "\e922";
+}
+.icon-RiiqoMain-107:before {
+  content: "\e923";
+}
+.icon-RiiqoMain-108:before {
+  content: "\e924";
+}
+.icon-RiiqoMain-109 .path1:before {
+  content: "\e925";
+  color: rgb(58, 62, 64);
+}
+.icon-RiiqoMain-109 .path2:before {
+  content: "\e926";
+  margin-left: -1.16796875em;
+  color: rgb(58, 62, 65);
+}
+.icon-RiiqoMain-109 .path3:before {
+  content: "\e927";
+  margin-left: -1.16796875em;
+  color: rgb(58, 62, 65);
+}
+.icon-RiiqoMain-109 .path4:before {
+  content: "\e928";
+  margin-left: -1.16796875em;
+  color: rgb(58, 62, 64);
+}
+.icon-RiiqoMain-109 .path5:before {
+  content: "\e929";
+  margin-left: -1.16796875em;
+  color: rgb(58, 62, 64);
+}
+.icon-RiiqoMain-110:before {
+  content: "\e92a";
+}
+.icon-RiiqoMain-111:before {
+  content: "\e92b";
+}
+.icon-RiiqoMain112:before {
+  content: "\e92c";
+}
+.icon-RiiqoMain113:before {
+  content: "\e92d";
+}
+.icon-RiiqoMain114:before {
+  content: "\e92e";
+}
+.icon-RiiqoMain-01:before {
+  content: "\e92f";
+}
+.icon-RiiqoMain-02:before {
+  content: "\e930";
+}
+.icon-RiiqoMain-03:before {
+  content: "\e931";
+}
+.icon-RiiqoMain-04:before {
+  content: "\e932";
+}
+.icon-RiiqoMain-05:before {
+  content: "\e933";
+}
+.icon-RiiqoMain-06:before {
+  content: "\e934";
+}
+.icon-RiiqoMain-07:before {
+  content: "\e935";
+}
+.icon-RiiqoMain-08:before {
+  content: "\e936";
+}
+.icon-RiiqoMain-09:before {
+  content: "\e937";
+}
+.icon-RiiqoMain-10:before {
+  content: "\e938";
+}
+.icon-RiiqoMain-11:before {
+  content: "\e939";
+}
+.icon-RiiqoMain-12:before {
+  content: "\e93a";
+}
+.icon-RiiqoMain-13:before {
+  content: "\e93b";
+}
+.icon-RiiqoMain-14:before {
+  content: "\e93c";
+}
+.icon-RiiqoMain-15:before {
+  content: "\e93d";
+}
+.icon-RiiqoMain-16:before {
+  content: "\e93e";
+}
+.icon-RiiqoMain-17:before {
+  content: "\e93f";
+}
+.icon-RiiqoMain-18:before {
+  content: "\e940";
+}
+.icon-RiiqoMain-19:before {
+  content: "\e941";
+}
+.icon-RiiqoMain-20:before {
+  content: "\e942";
+}
+.icon-RiiqoMain-21:before {
+  content: "\e943";
+}
+.icon-RiiqoMain-22:before {
+  content: "\e944";
+}
+.icon-RiiqoMain-23:before {
+  content: "\e945";
+}
+.icon-RiiqoMain-24:before {
+  content: "\e946";
+}
+.icon-RiiqoMain-25:before {
+  content: "\e947";
+}
+.icon-RiiqoMain-26:before {
+  content: "\e948";
+}
+.icon-RiiqoMain-27:before {
+  content: "\e949";
+}
+.icon-RiiqoMain-28:before {
+  content: "\e94a";
+}
+.icon-RiiqoMain-29:before {
+  content: "\e94b";
+}
+.icon-RiiqoMain-30:before {
+  content: "\e94c";
+}
+.icon-RiiqoMain-31:before {
+  content: "\e94d";
+}
+.icon-RiiqoMain-32:before {
+  content: "\e94e";
+}
+.icon-RiiqoMain-33:before {
+  content: "\e94f";
+}
+.icon-RiiqoMain-34:before {
+  content: "\e950";
+}
+.icon-RiiqoMain-35:before {
+  content: "\e951";
+}
+.icon-RiiqoMain-36:before {
+  content: "\e952";
+}
+.icon-RiiqoMain-37:before {
+  content: "\e953";
+}
+.icon-RiiqoMain-38:before {
+  content: "\e954";
+}
+.icon-RiiqoMain-39:before {
+  content: "\e955";
+}
+.icon-RiiqoMain-40:before {
+  content: "\e956";
+}
+.icon-RiiqoMain-41:before {
+  content: "\e957";
+}
+.icon-RiiqoMain-42:before {
+  content: "\e958";
+}
+.icon-RiiqoMain-43:before {
+  content: "\e959";
+}
+.icon-RiiqoMain-44:before {
+  content: "\e95a";
+}
+.icon-RiiqoMain-45:before {
+  content: "\e95b";
+}
+.icon-RiiqoMain-46:before {
+  content: "\e95c";
+}
+.icon-RiiqoMain-47:before {
+  content: "\e95d";
+}
+.icon-RiiqoMain-48:before {
+  content: "\e95e";
+}
+.icon-RiiqoMain-49:before {
+  content: "\e95f";
+}
+.icon-RiiqoMain-50:before {
+  content: "\e960";
+}
+.icon-RiiqoMain-51:before {
+  content: "\e961";
+}
+.icon-RiiqoMain-52:before {
+  content: "\e962";
+}
+.icon-RiiqoMain-53:before {
+  content: "\e963";
+}
+.icon-RiiqoMain-54:before {
+  content: "\e964";
+}
+.icon-RiiqoMain-55:before {
+  content: "\e965";
+}
+.icon-RiiqoMain-56:before {
+  content: "\e966";
+}
+.icon-RiiqoMain-57:before {
+  content: "\e967";
+}
+.icon-RiiqoMain-58:before {
+  content: "\e968";
+}
+.icon-RiiqoMain-59:before {
+  content: "\e969";
+}
+.icon-RiiqoMain-60:before {
+  content: "\e96a";
+}
+.icon-RiiqoMain-61:before {
+  content: "\e96b";
+}
+.icon-RiiqoMain-62:before {
+  content: "\e96c";
+}
+.icon-RiiqoMain-63:before {
+  content: "\e96d";
+}
+.icon-RiiqoMain-64:before {
+  content: "\e96e";
+}
+.icon-RiiqoMain-65:before {
+  content: "\e96f";
+}
+.icon-RiiqoMain-66:before {
+  content: "\e970";
+}
+.icon-RiiqoMain-67:before {
+  content: "\e971";
+}
+.icon-RiiqoMain-68:before {
+  content: "\e972";
+}
+.icon-RiiqoMain-69:before {
+  content: "\e973";
+}
+.icon-RiiqoMain-70:before {
+  content: "\e974";
+}
+.icon-RiiqoMain-71:before {
+  content: "\e975";
+}
+.icon-RiiqoMain-72:before {
+  content: "\e976";
+}
+.icon-RiiqoMain-73:before {
+  content: "\e977";
+}
+.icon-RiiqoMain-74:before {
+  content: "\e978";
+}
+.icon-RiiqoMain-75:before {
+  content: "\e979";
+}
+.icon-RiiqoMain-76:before {
+  content: "\e97a";
+}
+.icon-RiiqoMain-77:before {
+  content: "\e97b";
+}
+.icon-RiiqoMain-78:before {
+  content: "\e97c";
+}
+.icon-RiiqoMain-79:before {
+  content: "\e97d";
+}
+.icon-RiiqoMain-80:before {
+  content: "\e97e";
+}
+.icon-RiiqoMain-81:before {
+  content: "\e97f";
+}
+.icon-RiiqoMain-82:before {
+  content: "\e980";
+}
+.icon-RiiqoMain-83:before {
+  content: "\e981";
+}
+.icon-RiiqoMain-84:before {
+  content: "\e982";
+}
+.icon-RiiqoMain-85:before {
+  content: "\e983";
+}
+.icon-RiiqoMain-86:before {
+  content: "\e984";
+}
+.icon-RiiqoMain-87:before {
+  content: "\e985";
+}
+.icon-RiiqoMain-88:before {
+  content: "\e986";
+}
+.icon-RiiqoMain-89:before {
+  content: "\e987";
+}
+.icon-RiiqoMain-90:before {
+  content: "\e988";
+}
+.icon-RiiqoMain-91:before {
+  content: "\e989";
+}
+.icon-RiiqoMain-92:before {
+  content: "\e98a";
+}
+.icon-RiiqoMain-93:before {
+  content: "\e98b";
+}
+.icon-RiiqoMain-94:before {
+  content: "\e98c";
+}
+.icon-RiiqoMain-95:before {
+  content: "\e98d";
+}
+.icon-RiiqoMain-96:before {
+  content: "\e98e";
+}
+.icon-RiiqoMain-97:before {
+  content: "\e98f";
+}
+.icon-RiiqoMain-98:before {
+  content: "\e990";
+}
+.icon-RiiqoMain-99:before {
+  content: "\e991";
+}
+.icon-RiiqoMain-100:before {
+  content: "\e992";
+}
