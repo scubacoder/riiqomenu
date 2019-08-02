@@ -1,7 +1,7 @@
 {
     "name": "scubacoder/riiqomenu",
     "description": "Standalone right menu for RIIQO",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
